@@ -1,6 +1,6 @@
-import requests
-
 from abc import ABC, abstractmethod
+
+import requests
 
 
 class BaseClassAPI(ABC):
